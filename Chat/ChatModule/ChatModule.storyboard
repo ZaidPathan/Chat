@@ -10,7 +10,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Chat View Controller-->
+        <!--Chat-->
         <scene sceneID="zdE-Qy-uel">
             <objects>
                 <viewController storyboardIdentifier="ChatViewController" id="caH-YP-eak" customClass="ChatViewController" customModule="ChatModule" customModuleProvider="target" sceneMemberID="viewController">
@@ -32,6 +32,8 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="deA-IS-nR2"/>
                     </view>
+                    <tabBarItem key="tabBarItem" title="Chat" id="wdF-ZL-pOw"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6Ug-1a-BW7" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
