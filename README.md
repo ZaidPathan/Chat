@@ -1,2 +1,2 @@
 # Chat
-A chat module of [TheAwesomeApp](https://link.medium.com/edjqlnY5oV).
+A Chat module of [TheAwesomeApp](https://link.medium.com/edjqlnY5oV).
