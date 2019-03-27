@@ -1,2 +1,2 @@
 # Chat
-A chat module of PayZaid main app.
+A chat module of [TheAwesomeApp](https://link.medium.com/edjqlnY5oV).
